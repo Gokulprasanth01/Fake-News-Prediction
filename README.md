@@ -20,5 +20,5 @@ This project is a simple fake news detector web application that uses logistic r
   ![image](https://user-images.githubusercontent.com/116962572/224257144-69799e00-2448-4571-808f-9dd2fbac03f1.png)
   ![image](https://user-images.githubusercontent.com/116962572/224257026-af2b325b-3fc3-439e-9afb-4152d9555667.png)
   
-# Tools: `Python` , `Flask`
+### Tools: `Python` , `Flask`
   
