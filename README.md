@@ -15,3 +15,10 @@ This project is a simple fake news detector web application that uses logistic r
 # Usage
 ### Copy and paste the news article you want to classify into the text area provided in the web application.
 ### Click on the 'Check' button to classify the news article as real or fake.
+
+### Web Page
+  ![image](https://user-images.githubusercontent.com/116962572/224257144-69799e00-2448-4571-808f-9dd2fbac03f1.png)
+  ![image](https://user-images.githubusercontent.com/116962572/224257026-af2b325b-3fc3-439e-9afb-4152d9555667.png)
+  
+# Tools: `Python` , `Flask`
+  
